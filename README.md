@@ -1,2 +1,0 @@
-# PokeAna
- Pokedex - Dev Mobile
